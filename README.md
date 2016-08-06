@@ -65,23 +65,22 @@ If you discover a security vulnerability within this script, please send an e-ma
 
 ## License
 
-This script is open-sourced software licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+This script is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
 
 Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
 
 
 ## Author
 
-Arthur Garegnyan aka Berserkr
+Arthur Garegnyan
 
 * Email: arthurgareginyan@gmail.com
 
 * GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
 
-* My Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
 
-* Donation Page: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
-
+* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
 
 ---
 Logos:
